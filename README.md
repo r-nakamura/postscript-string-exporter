@@ -24,6 +24,9 @@ $ (cd postscript-string-exporter/util/; make)
 $ pip3 install -e postscript-string-exporter
 ```
 
+Note that `util/convert-{helvetica,symbol}.pl require extra CPAN
+modules, `List::MoreUtils` and `Path::Tiny`.
+
 # SEE ALSO
 
 cellx - command-driven drawing/visualization/animation/presentation tool ([https://github.com/h-ohsaki/cellx](https://github.com/h-ohsaki/cellx))
