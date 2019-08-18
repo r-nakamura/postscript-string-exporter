@@ -1,0 +1,4 @@
+*.egg-info/
+**/__pycache__/
+postscript/string/exporter/constants/
+util/afm/
