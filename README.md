@@ -24,7 +24,7 @@ $ (cd postscript-string-exporter/util/; make)
 $ pip3 install -e postscript-string-exporter
 ```
 
-Note that `util/convert-{helvetica,symbol}.pl require extra CPAN
+Note that `util/convert-{helvetica,symbol}.pl` require extra CPAN
 modules, `List::MoreUtils` and `Path::Tiny`.
 
 # SEE ALSO
